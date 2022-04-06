@@ -1,0 +1,60 @@
+#Container{ /* Outer container */
+	display: flex;
+	border: 3px solid rgb(0, 0, 0);
+	padding: 5px;
+	background-color: rgb(252, 248, 244);
+}
+.Labs{
+	width: 20%;
+}
+ul.Labs{
+	list-style-type: circle;
+}
+#Main{
+	width: 100%;
+	border: 3px solid black;
+}
+
+#Header{
+	display: flex;
+	border: 3px solid orange;
+}
+
+#LeftHeader{
+	text-align: center;
+	width: 50%;
+	border: 3px solid yellow;
+}
+
+#RightHeader{
+	text-align: center;
+	width: 50%;
+	border: 3px solid yellow;
+}
+
+#LowerContent{
+	display:flex;
+	border: 3px solid rgb(0, 0, 0);
+	padding: 5px;
+}
+
+#RightMain{
+	padding: 5px;
+	width: 50%;
+	border: 3px solid black;
+}
+
+#LeftMain{
+	padding: 5px;
+	width: 50%;
+	border: 3px solid black;
+}
+
+#Image{
+	text-align: center;	
+}
+
+#CR{
+	text-align: center;
+	border: 3px solid red;
+}

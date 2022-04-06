@@ -1,0 +1,38 @@
+.containerSetUp {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    width: 1500px;
+    flex-direction: column;
+    
+  }
+  
+  .days{
+      display: flex;
+      flex-direction: row;
+      margin: 3px;
+  }
+  
+  .days > div{
+      border: 2px solid black;
+      text-align: center;
+      height: 20px;
+      width: 20%;
+      margin: 3px;
+  }
+  
+  .times{
+      display: flex;
+      flex-direction: row;
+      margin: 3px;
+  }
+  
+  
+  .times > div{
+      padding-top: 30px;
+      padding-bottom: 30px;
+      width: 20%;
+      border: 2px solid black;
+      margin: 3px;
+  }

@@ -1,0 +1,46 @@
+
+
+.container{
+	position: relative;
+	align-self: center;
+	display: flex;
+  	flex-wrap: wrap;
+	width: 100%;
+	padding-left: 120px;
+	padding-right: 20px;
+}
+
+
+.signup{
+	position: relative;
+	padding-bottom: 20px;
+	
+}
+
+.empty{
+	height: 100px;
+    	width: 13%;
+	background-color: #f1f1f1;
+	border: 1px solid red;
+	overflow-y: scroll;
+
+}
+.day{	
+
+	height: 100px;
+    	width: 13%;
+	background-color: #f1f1f1;
+	border: 1px solid red;
+	overflow-y: scroll;
+
+}
+.date{	
+	height = 125px;
+	width: 91.75%;
+	background-color: rgb(252, 248, 244);
+	border: 3px solid black;
+	text-align: center;
+	font-size: 250%
+	overflow-y: scroll;
+
+}
